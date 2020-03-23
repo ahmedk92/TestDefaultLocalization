@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  TestDefaultLocalization
+
+  Created by Ahmed Khalaf on 3/23/20.
+  Copyright © 2020 io.github.ahmedkhalaf. All rights reserved.
+*/
+"Hello" = "مرحبًا";
